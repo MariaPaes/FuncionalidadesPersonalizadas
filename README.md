@@ -5,10 +5,10 @@
 
  Temos duas classes que incluem funcionalidades personalizadas para manipular listas e verificar a presença de alunos em uma sala de aula.
 
-1. Classe CustomList
+## 1. Classe CustomList
 Esta classe permite verificar se um índice específico está presente na lista. Caso contrário, uma mensagem informativa é exibida em vez de uma exceção.
 
-2. Classe ClassRoom
+## 2. Classe ClassRoom
 Esta classe representa uma sala de aula e permite verificar se um aluno específico está presente na lista de alunos. Ela retorna True se o aluno estiver presente e False caso contrário.
 
 Ambas as classes são projetadas para fornecer informações personalizadas ao usuário, com mensagens informativas em vez de exceções.
